@@ -1,6 +1,7 @@
 *{
   box-sizing: border-box;
 }
+
 body {
 background: url(https://cdn.dribbble.com/users/2105749/screenshots/11238807/wutang.gif);
 width: 100%;
@@ -8,8 +9,6 @@ background-size: cover;
 margin: 0 auto;
 background-repeat: no-repeat;
 height: 100%;
-
-
 }
 
 #wuContainer{
@@ -38,6 +37,5 @@ button{
 }
 
 option{
-  padding: 30rem ;
-  
+  padding: 30rem;
 }
