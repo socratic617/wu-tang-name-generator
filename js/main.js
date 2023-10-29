@@ -58,7 +58,6 @@ let options = []
 switch (
   questionOne + questionTwo + questionThree + questionFour + questionFive
 ) {
-  // console.log(switch);
   case 25:
     // code block
     options = ["Suave Pasta", "Hat n Petz"];
