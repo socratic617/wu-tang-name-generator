@@ -60,14 +60,14 @@ switch (
 ) {
   case 25:
     // code block
-    options = ["Suave Pasta", "Hat n Petz"];
+    options = ["Coo Fangz", "Master Elite"];
   
     console.log(options[random])
     fullName = options[random]
     break;
   case 26:
     // code block
-    options = ["Ghos'N Tech", " ClarkN Batz"];
+    options = ["Ghos'N Tech", "Batzy Kila"];
     fullName = options[random];
     break;
   case 27:
@@ -82,7 +82,7 @@ switch (
     break;
   case 29:
     // code block
-    options = ["Rizza Zupa", "Feds N Rep"];
+    options = ["Rizza Zu", "Pac Collecter"];
     fullName = options[random];
     break;
   case 30:
