@@ -1,4 +1,4 @@
-# 🎤 Week08 Bootcamp2019a Project: Wu-Tang Name Generator
+# 🎤  Wu-Tang Name Generator
 
 ### How to Use Wu-Tang Name Generator
 
